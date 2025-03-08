@@ -101,6 +101,23 @@ namespace Mockup
             }
         }
 
+        // Método para generar un código de 6 dígitos
+        private string GenerateAccessCode()
+        {
+            Random random = new Random();
+            return random.Next(100000, 999999).ToString(); // Genera un número aleatorio de 6 dígitos
+        }
+
+        // Evento para regenerar el código de acceso
+        private void OnRegenerateCodeClicked(object sender, EventArgs e)
+        {
+            // Generar un nuevo código de acceso
+            string newCode = GenerateAccessCode();
+
+            // Mostrar el código generado (esto puede ser almacenado o mostrado como quieras)
+            DisplayAlert("Nuevo código", $"El nuevo código de acceso es: {newCode}", "OK");
+        }
+
         public UserDashboardPage()
         {
             InitializeComponent();

@@ -43,6 +43,11 @@
                             <Label Text="Observaciones: " FontSize="16" FontAttributes="Bold"/>
                             <Label Text="{Binding Observations}" FontSize="16" />
                         </HorizontalStackLayout>
+                        <!-- Icono para regenerar código -->
+                        <HorizontalStackLayout Spacing="10" VerticalOptions="Center">
+                            <Label Text="" FontSize="16" FontAttributes="Bold"/>
+                            <ImageButton Source="refresh.png" WidthRequest="570" HeightRequest="30" Clicked="OnRegenerateCodeClicked" />
+                        </HorizontalStackLayout>
                     </StackLayout>
                 </VerticalStackLayout>
             </Frame>

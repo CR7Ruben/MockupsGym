@@ -11613,14 +11613,15 @@ public final class R {
     public static final int press_inclinado=0x7f0700f6;
     public static final int press_plano=0x7f0700f7;
     public static final int pull_over=0x7f0700f8;
-    public static final int remo_barra_t_agarre_cerrado=0x7f0700f9;
-    public static final int remo_maquina_agarre_neutro=0x7f0700fa;
-    public static final int sentadillas_bulgaras=0x7f0700fb;
-    public static final int splash=0x7f0700fc;
-    public static final int test_level_drawable=0x7f0700fd;
-    public static final int tooltip_frame_dark=0x7f0700fe;
-    public static final int tooltip_frame_light=0x7f0700ff;
-    public static final int user=0x7f070100;
+    public static final int refresh=0x7f0700f9;
+    public static final int remo_barra_t_agarre_cerrado=0x7f0700fa;
+    public static final int remo_maquina_agarre_neutro=0x7f0700fb;
+    public static final int sentadillas_bulgaras=0x7f0700fc;
+    public static final int splash=0x7f0700fd;
+    public static final int test_level_drawable=0x7f0700fe;
+    public static final int tooltip_frame_dark=0x7f0700ff;
+    public static final int tooltip_frame_light=0x7f070100;
+    public static final int user=0x7f070101;
   }
   public static final class id {
     public static final int ALT=0x7f080000;
