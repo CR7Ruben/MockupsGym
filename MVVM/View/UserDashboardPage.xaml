@@ -1,7 +1,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Mockup.UserDashboardPage"
-             Title="Iron Revolution Center">
+             Title="Iron Revolution">
 
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Cerrar sesión"
@@ -13,12 +13,25 @@
 
     <ScrollView>
         <VerticalStackLayout Padding="20" Spacing="20">
+            <!--
             <HorizontalStackLayout Spacing="10">
                 <Image Source="user.png" WidthRequest="40" HeightRequest="40" />
 
                 <VerticalStackLayout>
                     <Label Text="{Binding Username}" FontSize="20" FontAttributes="Bold" />
                     <Label Text="{Binding UserNumber}" FontSize="16" TextColor="Gray" />
+                </VerticalStackLayout>
+            </HorizontalStackLayout>
+            -->
+
+            <HorizontalStackLayout Spacing="10">
+                <!-- Icono de usuario -->
+                <Image Source="user.png" WidthRequest="35" HeightRequest="35" />
+
+                <!-- Nombre del usuario -->
+                <VerticalStackLayout>
+                    <!--<Label Text="{Binding Username}" FontSize="20" FontAttributes="Bold"/>-->
+                    <Label Text="{Binding UserNumber}" FontSize="21" TextColor="Gray" />
                 </VerticalStackLayout>
             </HorizontalStackLayout>
 

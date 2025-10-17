@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 
 namespace Mockup
 {
-    [QueryProperty(nameof(Username), "username")]
+    //[QueryProperty(nameof(Username), "username")]//
     [QueryProperty(nameof(UserNumber), "userNumber")]
 
     public partial class UserDashboardPage : ContentPage

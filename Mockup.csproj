@@ -59,6 +59,7 @@
 	  <None Remove="Resources\Images\apertura.png" />
 	  <None Remove="Resources\Images\codigo.png" />
 	  <None Remove="Resources\Images\contrasena.png" />
+	  <None Remove="Resources\Images\correo.png" />
 	  <None Remove="Resources\Images\curl_barra_recta.png" />
 	  <None Remove="Resources\Images\curl_barra_z.png" />
 	  <None Remove="Resources\Images\curl_concen.png" />

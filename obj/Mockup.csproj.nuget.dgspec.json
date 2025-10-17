@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\Mockup.csproj": {}
+    "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\Mockup.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\Mockup.csproj": {
+    "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\Mockup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\Mockup.csproj",
+        "projectUniqueName": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\Mockup.csproj",
         "projectName": "Mockup",
-        "projectPath": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\Mockup.csproj",
+        "projectPath": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\Mockup.csproj",
         "packagesPath": "C:\\Users\\ragon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\obj\\",
+        "outputPath": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

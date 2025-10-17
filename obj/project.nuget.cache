@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXS4OJKcItA=",
+  "dgSpecHash": "riavpKb759U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\Mockup.csproj",
+  "projectFilePath": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\Mockup.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ragon\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\ragon\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

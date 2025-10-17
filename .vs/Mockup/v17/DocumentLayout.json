@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\",
+  "WorkspaceRootPath": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|c:\\users\\ragon\\onedrive\\escritorio\\rubenvisualstudio\\mockup\\mvvm\\view\\userdashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|solutionrelative:mvvm\\view\\userdashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|c:\\users\\ragon\\onedrive\\documents\\mockupsgym\\mvvm\\view\\recoverpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|solutionrelative:mvvm\\view\\recoverpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|c:\\users\\ragon\\onedrive\\escritorio\\rubenvisualstudio\\mockup\\mvvm\\view\\userdashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|solutionrelative:mvvm\\view\\userdashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|c:\\users\\ragon\\onedrive\\escritorio\\rubenvisualstudio\\mockup\\mvvm\\models\\usemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|solutionrelative:mvvm\\models\\usemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|c:\\users\\ragon\\onedrive\\escritorio\\rubenvisualstudio\\mockup\\mvvm\\models\\excersice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|solutionrelative:mvvm\\models\\excersice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|c:\\users\\ragon\\onedrive\\documents\\mockupsgym\\mvvm\\view\\recoverpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FFC6799-8079-4CC8-A23C-3077F4A0BEAC}|Mockup.csproj|solutionrelative:mvvm\\view\\recoverpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,52 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserDashboardPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\MVVM\\View\\UserDashboardPage.xaml",
-              "RelativeDocumentMoniker": "MVVM\\View\\UserDashboardPage.xaml",
-              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\MVVM\\View\\UserDashboardPage.xaml",
-              "RelativeToolTip": "MVVM\\View\\UserDashboardPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-08T04:35:26.855Z",
+              "Title": "RecoverPasswordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\MVVM\\View\\RecoverPasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\View\\RecoverPasswordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\MVVM\\View\\RecoverPasswordPage.xaml.cs",
+              "RelativeToolTip": "MVVM\\View\\RecoverPasswordPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:57:17.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserDashboardPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\MVVM\\View\\UserDashboardPage.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM\\View\\UserDashboardPage.xaml.cs",
-              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\MVVM\\View\\UserDashboardPage.xaml.cs",
-              "RelativeToolTip": "MVVM\\View\\UserDashboardPage.xaml.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAowHYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T04:35:38.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UseModel.cs",
-              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\MVVM\\Models\\UseModel.cs",
-              "RelativeDocumentMoniker": "MVVM\\Models\\UseModel.cs",
-              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\MVVM\\Models\\UseModel.cs",
-              "RelativeToolTip": "MVVM\\Models\\UseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T03:57:44.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Excersice.cs",
-              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\MVVM\\Models\\Excersice.cs",
-              "RelativeDocumentMoniker": "MVVM\\Models\\Excersice.cs",
-              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\RubenVisualStudio\\Mockup\\MVVM\\Models\\Excersice.cs",
-              "RelativeToolTip": "MVVM\\Models\\Excersice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T03:57:37.372Z"
+              "Title": "RecoverPasswordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\MVVM\\View\\RecoverPasswordPage.xaml",
+              "RelativeDocumentMoniker": "MVVM\\View\\RecoverPasswordPage.xaml",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Documents\\MockupsGym\\MVVM\\View\\RecoverPasswordPage.xaml",
+              "RelativeToolTip": "MVVM\\View\\RecoverPasswordPage.xaml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-13T01:57:16.146Z"
             }
           ]
         }

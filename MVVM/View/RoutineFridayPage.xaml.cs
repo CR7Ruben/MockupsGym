@@ -72,7 +72,6 @@ namespace Mockup
                     exercises.Add(new Exercise { Name = "Sentadilla búlgara con mancuernas (3x10-12 reps por pierna)", Image = "sentadillas_bulgaras.png" });
                     break;
             }
-
             ExercisesListView.ItemsSource = exercises;
             ExercisesLayout.IsVisible = exercises.Count > 0;
         }
